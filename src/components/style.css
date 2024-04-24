@@ -1,0 +1,10 @@
+body{
+    font-size: 20px;
+}
+
+span{
+    height: 2rem;
+    width: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
